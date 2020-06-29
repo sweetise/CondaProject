@@ -1,0 +1,2 @@
+# CondaProject
+Learning Python.  
